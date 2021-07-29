@@ -10,6 +10,8 @@
 
 <?php include('./pages/produtos.php'); ?>
 
+<?php include('./pages/quem_somos.php'); ?>
+
 <?php include('./pages/contato.php'); ?>
 
 
