@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Rochester&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./css/style.css">
   <title>Empório dos Doces</title>
 </head>
@@ -25,8 +26,9 @@
       <img src="./images/logo.svg" alt="">
     </div>
     <ul class="navigation-list">
-      <li><a href="#">Home</a></li>
-      <li><a href="#quem_somos">Quem somos</a></li>
+      
+      <li><a href="index.php#">Home</a></li>
+      <li><a href="index.php#quem_somos">Quem somos</a></li>
       <li><a href="#contato">Contato</a></li>
     </ul>
   </nav>

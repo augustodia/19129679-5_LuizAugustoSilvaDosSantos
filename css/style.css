@@ -40,14 +40,27 @@ a {
   letter-spacing: 1px;
   border-radius: 8px;
   margin-top: 32px;
-  border-bottom: 3px solid #F6EDEF;
-  border-bottom: 3px solid #F6EDEF;
+  border-bottom: 3px solid #C56170;
   transition: all .3s;
+
+  cursor: pointer;
 }
 
 .btn:hover {
   transform: scale(1.1);
   box-shadow: 0px 10px 10px rgba(208, 29, 38, 0.16), 0px 8.13971px 10.25px rgba(208, 29, 38, 0.11), 0px 3.38082px 4.25733px rgba(208, 29, 38, 0.07), 0px 1.22278px 1.53979px rgba(208, 29, 38, 0.47);
+}
+
+.btn-comprar {
+  border-bottom: 3px solid #C56170;
+}
+
+.title {
+  font-family: 'Rochester', cursive;
+  font-size: 64px;
+  color: #5A3C24;
+  text-align: center;
+  margin-top: 92px;
 }
 
 
@@ -86,7 +99,7 @@ a {
   margin: 0 8px;
   padding: 8px;
   color: #5A3C24;
-  font-weight: 700;
+  font-weight: 500;
   transition: transform .3s;
   border-bottom: 3px solid transparent;
   border-radius: 8px;
@@ -120,6 +133,49 @@ a {
 
 .banner-title {
   font-size: 50px;
-  max-width: 720px;
+  max-width: 750px;
   color: #F6EDEF;
+}
+
+
+/* PRODUTOS */
+
+.produtos {
+  position: relative;
+  z-index: 999;
+}
+
+.bg-produtos {
+  position: absolute;
+  max-width: 110%;
+  margin-top: 100px;
+}
+
+.produtos-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 126px;
+}
+
+.produto-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px;
+  margin-bottom: 40px;
+}
+
+.produto-titulo {
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+.produto-item .preco {
+  font-size: 18px;
+  color: #4f4f4f;
+}
+
+.produto-item span {
+  font-size: 12px;
 }
