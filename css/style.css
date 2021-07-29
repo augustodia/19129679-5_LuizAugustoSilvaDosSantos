@@ -179,3 +179,51 @@ a {
 .produto-item span {
   font-size: 12px;
 }
+
+
+/* CONTATO */
+
+.contato-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 126px;
+}
+
+.contato-mapa {
+  max-width: 900px;
+}
+
+.contato-mapa img {
+  cursor: pointer;
+}
+
+.mapa-chamada {
+  font-family: 'Rochester', cursive;
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.contato-titulo {
+  font-size: 24px;
+  color: #D01D26;
+}
+
+.contato-item {
+  margin-bottom: 32px;
+}
+
+.contato-item p {
+  color: #3f3f3f;
+  margin-bottom: 8px;
+}
+
+.contato-redes {
+  display: flex;
+}
+
+.contato-redes img {
+  margin-top: 8px;
+  margin-right: 16px;
+  width: 20px;
+  cursor: pointer;
+}
