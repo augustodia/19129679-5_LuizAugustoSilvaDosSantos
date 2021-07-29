@@ -14,5 +14,7 @@
 
 <?php include('./pages/contato.php'); ?>
 
+<?php include('./pages/footer.php'); ?>
+
 
 
