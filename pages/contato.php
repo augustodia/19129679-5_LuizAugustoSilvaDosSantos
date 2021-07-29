@@ -10,18 +10,19 @@
       <div class="contato-item">
         <h3 class="contato-titulo">REDES SOCIAIS</h3>
         <div class="contato-redes">
-          <img src="./images/facebook.svg" alt="">
-          <img src="./images/linkedin.svg" alt="">
-          <img src="./images/twitter.svg" alt="">
-          <img src="./images/youtube.svg" alt="">
-          <img src="./images/instagram.svg" alt="">
-
+          <div class="img"><img src="./images/facebook.svg" alt=""></div>
+          <div class="img"><img src="./images/linkedin.svg" alt=""></div>
+          <div class="img"><img src="./images/twitter.svg" alt=""></div>
+          <div class="img"><img src="./images/youtube.svg" alt=""></div>
+          <div class="img"><img src="./images/instagram.svg" alt=""></div>
         </div>
       </div>
     </div>
     <div class="contato-mapa">
       <p class="mapa-chamada">Encontre a loja mais perto de você!</p>
-      <img src="./images/mapa-localizacao.png" alt="">
+      <div class="img">
+        <img src="./images/mapa-localizacao.png" alt="">
+      </div>
     </div>
   </div>
 </section>

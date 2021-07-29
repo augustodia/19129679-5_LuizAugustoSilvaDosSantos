@@ -180,6 +180,25 @@ a {
   font-size: 12px;
 }
 
+/* QUEM SOMOS */
+
+.quem-somos-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 126px;
+
+}
+.quem-somos-content p{
+  max-width: 800px;
+  color: #4f4f4f;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.quem-somos-dados .img {
+  margin-top: 150px;
+}
+
 
 /* CONTATO */
 
@@ -193,7 +212,7 @@ a {
   max-width: 900px;
 }
 
-.contato-mapa img {
+.contato-mapa .img {
   cursor: pointer;
 }
 
@@ -221,9 +240,11 @@ a {
   display: flex;
 }
 
-.contato-redes img {
+.contato-redes .img {
+  display: flex;
+  align-items: flex-end;
   margin-top: 8px;
   margin-right: 16px;
-  width: 20px;
+  width: 30px;
   cursor: pointer;
 }
