@@ -1,4 +1,4 @@
-<section class="quem-somos container" id="quem-somos">
+<section class="quem-somos container" id="quem_somos">
   <h2 class="title">Quem Somos</h2>
   <div class="quem-somos-content">
     <div class="quem-somos-dados">

@@ -248,3 +248,13 @@ a {
   width: 30px;
   cursor: pointer;
 }
+
+
+/* FOOTER */
+
+.footer {
+  margin-top: 126px;
+  background-color: #C56170;
+  text-align: center;
+  padding: 16px 0;
+}
