@@ -1,4 +1,4 @@
-<?php include('./dados/dados.php');?>
+<?php include_once('./dados/dados.php');?>
 <div class="bg-produtos">
   <img src="./images/bg-produtos.svg" alt="">
 </div>
@@ -12,7 +12,7 @@
       </div>
       <h3 class="produto-titulo"><?=$produto['nome']?></h3>
       <p class="preco"><span>R$ </span><?=$produto['preco']?></p>
-      <a href="<?=$BASE_URL.'produto.php?id='.$produto['id']?>" class="btn btn-comprar">SAIBA MAIS</a>
+      <a href="<?='http://localhost/19129679-5_LuizAugustoSilvaDosSantos/pages/produto.php?id='.$produto['id']?>" class="btn btn-comprar">SAIBA MAIS</a>
     </div>
     <?php endforeach; ?>
   </div>
