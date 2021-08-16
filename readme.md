@@ -17,6 +17,6 @@
 
 ## Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/augustodia)]
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/augustodia)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-augusto-silva-dos-santos-692008193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmCQvXWzOTFSCF%2FmzlEXP9Q%3D%3D)]
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-augusto-silva-dos-santos-692008193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmCQvXWzOTFSCF%2FmzlEXP9Q%3D%3D)
